@@ -1,0 +1,18 @@
+.veiculos-select {
+    background-color: var(--cinza);
+    border-radius: 10px;
+    color: var(--claro);
+    font-size: 0.8rem;
+    outline: none;
+    padding: 0.5rem;
+    text-transform: uppercase;
+}
+.veiculos-item {
+    background-color: white;
+    color: black;
+    font-size: 0.8rem;
+}
+.veiculos-dropdown {
+    margin-bottom: 1rem;
+    width: 300px;
+}
